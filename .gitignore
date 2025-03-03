@@ -1,0 +1,7 @@
+# .gitignore
+venv/
+data/*.npy
+data/*.pkl
+__pycache__/
+*.pyc
+*.log
