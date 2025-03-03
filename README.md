@@ -13,7 +13,7 @@ This project classifies plant diseases using image data.
 1.  Clone the repository:
 
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/MeeraLizJoy/PlantDiseaseXGBoost.git
     cd <project_directory>
     ```
 
